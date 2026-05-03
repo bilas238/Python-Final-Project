@@ -4,7 +4,7 @@ id:24-59143-3
 
 ---
 
-### 📋 Overview
+###  Overview
 A Python-based data analysis tool that fetches global GDP data, processes it with **Pandas** & **NumPy**, and visualizes the results using **Matplotlib**.
 
 ###
